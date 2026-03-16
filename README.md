@@ -16,6 +16,7 @@ The **Caesar Cipher** is one of the oldest and simplest encryption techniques us
 For example, with a shift value of **3**:
 
   Plaintext : HELLO
+  
   Encrypted : KHOOR
 
 
